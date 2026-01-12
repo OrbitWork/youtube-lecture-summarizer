@@ -1,0 +1,5 @@
+pip install yt-dlp
+pip install openai-whisper
+pip install sentence-transformers
+pip install faiss-cpu
+pip install tqdm
